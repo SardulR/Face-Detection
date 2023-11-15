@@ -19,4 +19,3 @@ requests
 tqdm
 urllib3
 wincertstore
-***SPECIAL NOTE:- For running and building dlib and cmake you have to install and setup vs build tools from microsoft.com
