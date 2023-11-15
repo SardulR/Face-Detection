@@ -1,0 +1,22 @@
+flask
+opencv-python
+certifi
+chardet
+click
+cmake==3.18.2.post1
+decorator
+dlib==
+face-recognition
+face-recognition-models
+idna
+imageio
+imageio-ffmpeg
+moviepy
+numpy
+Pillow
+proglog
+requests
+tqdm
+urllib3
+wincertstore
+***SPECIAL NOTE:- For running and building dlib and cmake you have to install and setup vs build tools from microsoft.com
