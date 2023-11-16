@@ -3,7 +3,7 @@ opencv-python
 certifi
 chardet
 click
-cmake==3.18.2.post1
+cmake
 decorator
 dlib
 face-recognition
