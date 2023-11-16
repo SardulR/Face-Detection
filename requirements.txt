@@ -19,4 +19,3 @@ requests
 tqdm
 urllib3
 wincertstore
-gunicorn
